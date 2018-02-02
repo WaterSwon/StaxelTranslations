@@ -1,15 +1,15 @@
 language.code=es-ES
 language=Español
 //TODO Translate [Reference] 'White powder for baking.'
-staxel.item.crafting.BakingPowder.description=
+staxel.item.crafting.BakingPowder.description=levadura blanca para hornear
 //TODO Translate [Reference] 'Baking Powder'
-staxel.item.crafting.BakingPowder.name=
+staxel.item.crafting.BakingPowder.name=Levadura en polvo
 //TODO Translate [Reference] 'Used to bake food in an oven.'
-staxel.item.crafting.BakingTray.description=
+staxel.item.crafting.BakingTray.description=Se usa para cocinar en un horno
 //TODO Translate [Reference] 'Baking Tray'
-staxel.item.crafting.BakingTray.name=
+staxel.item.crafting.BakingTray.name=Bandeja de horno
 //TODO Translate [Reference] 'They're fresh and plentiful.'
-staxel.item.crafting.Blueberries.description=
+staxel.item.crafting.Blueberries.description=Son frescos y abundantes
 //[Reference] 'Blueberries'
 staxel.item.crafting.Blueberries.name=Arándanos
 //[Reference] 'A white bowl.'
@@ -17,24 +17,24 @@ staxel.item.crafting.Bowl.description=Un bol blanco
 //[Reference] 'Bowl'
 staxel.item.crafting.Bowl.name=Bol
 //TODO Translate [Reference] 'A loaf of bread.'
-staxel.item.crafting.Bread.description=
+staxel.item.crafting.Bread.description=Una barra de pan
 //[Reference] 'Bread'
 staxel.item.crafting.Bread.name=Pan
 //TODO Translate [Reference] 'A freshly cut slice of bread.'
-staxel.item.crafting.BreadSlice.description=
+staxel.item.crafting.BreadSlice.description=Una barra de pan recién cortada
 //[Reference] 'Bread slice'
 staxel.item.crafting.BreadSlice.name=Trozo de pan
 //[Reference] 'It's like sugar, but brown!'
 staxel.item.crafting.BrownSugar.description=Es como azúcar, ¡pero marrón!
 //[Reference] 'Brown sugar'
-staxel.item.crafting.BrownSugar.name=Azúcar marrón
+staxel.item.crafting.BrownSugar.name=Azúcar morena
 //TODO Translate [Reference] 'A multipurpose miracle product. Useful for many recipes!'
-staxel.item.crafting.Butter.description=
+staxel.item.crafting.Butter.description=Un producto milagroso multifunción. Útil para muchas recetas!
 //[Reference] 'Butter'
 staxel.item.crafting.Butter.name=Mantequilla
-staxel.item.crafting.Buttermilk.description=
+staxel.item.crafting.Buttermilk.description=Usado para elaboraciones lácteas
 //TODO Translate [Reference] 'Buttermilk'
-staxel.item.crafting.Buttermilk.name=
+staxel.item.crafting.Buttermilk.name=Suero de leche
 staxel.item.crafting.CakeCarrot.description=
 //[Reference] 'Carrot Cake'
 staxel.item.crafting.CakeCarrot.name=Tarta de zanahoria
